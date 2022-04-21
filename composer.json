@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/sparkline",
+    "name": "snowsoft/sparkline",
     "description": "Integrates jQuery sparkline into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "sparkline"],
-    "homepage": "https://github.com/laravel-admin-ext/sparkline",
+    "homepage": "https://github.com/snowsoft/sparkline",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "snowsoft/laravel-admin": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
